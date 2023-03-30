@@ -1,0 +1,166 @@
+*{
+    margin: 0%;
+}
+
+.body1{
+
+    background-image: url(img/back1.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.menu{
+
+    background-color: rgb(82, 17, 119) ;
+    padding: 2%;
+    text-align: right;
+    
+}
+
+h2{
+
+    float: left;
+    color: #fff;
+
+}
+
+    a{
+        color: #fff;
+        font-size: 120%;
+        padding: 1%;
+        text-decoration: none;
+}
+
+.div1{
+
+    text-align: center;
+    margin-top: 20%;
+}
+
+.botao{
+
+background-color: rgb(82, 17, 119);
+padding: 2%;
+color: #fff;
+font-size: 130%;
+text-decoration: none;
+ 
+}
+  
+form{
+
+    background-color: rgba(19, 19, 19, 0.7);
+    display: inline-block;
+    padding: 5%;
+    width:34%;
+    border-radius: 20px;
+    opacity:0.9 ;
+}
+
+.cadastro{
+
+    text-align: center;
+    padding: 10%;
+
+    
+    
+}
+
+.n1{
+
+    color: #fff;
+    font-size: 130%;
+    margin-top: 3%;
+
+}
+
+.n2{
+
+    color: #fff;
+    font-size: 130%;
+    margin-top: 3%;
+
+}
+
+.n3{
+
+    color: #fff;
+    font-size: 130%;
+    margin-top: 3%;
+}
+
+.n4{
+
+    color: #fff;
+    font-size: 130%;
+    margin-top: 3%;
+     
+}
+
+.n5{
+
+    color: #fff;
+    font-size: 130%;
+    margin-top: 3%;
+
+}
+
+
+
+.cac .submit{
+
+    width: 100%; 
+    height: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 110%;
+    background-color:   rgb(82, 17, 119) ;
+    border:none;
+    color:#fff;
+    border-radius: 20px;
+    margin-top: 6%;
+}
+
+.eu{
+ background-color:  rgba(19, 19, 19, 0.7);
+ margin: 3% 5% 3% 5%;
+
+
+}
+
+ul{
+    font-size: 140%;
+    color: #fff;
+    margin-top: 10%;
+}
+
+h1 {
+
+    color: #fff;
+    text-align:center;
+    margin: 5%;
+    padding: 3%;
+}
+
+h3{
+    text-align: center;
+    color: #fff;
+    font-size: 150%;
+}
+
+img{
+    margin: 4%;
+}
+
+p{
+    margin: 4%;
+    font-size: 140%;
+    color: #fff;
+}
+
+pre{
+    font-size: 180%;
+    margin-top: 10%;
+    margin-left: 5%;
+    color: #fff;
+}
